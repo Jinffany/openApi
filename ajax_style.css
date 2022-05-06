@@ -1,0 +1,19 @@
+ .container {
+            margin: 20px auto;
+            width: 450px;
+        }
+        div.question-box {
+            margin: 10px 0 20px 0;
+        }
+
+        .bad{
+            color: red;
+        }
+
+        .nav_menu{
+
+        }
+        .nav_item{
+            text-decoration: none;
+            margin-right: 10px;
+        }
